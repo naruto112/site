@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2947C1A1-1D6C-43A4-8809-4B120BE613FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.site PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="site/Startup.cs">
+    <Files>
+      <File FileName="site/Controllers/PalavraController.cs" Line="19" Column="41" />
+      <File FileName="site/Views/Palavra/Index.cshtml" Line="22" Column="46" />
+      <File FileName="site/Startup.cs" Line="26" Column="49" />
+      <File FileName="site/Models/Palavra.cs" Line="5" Column="5" />
+      <File FileName="site/Database/DatabaseContext.cs" Line="10" Column="1" />
+      <File FileName="site/Models/Contato.cs" Line="8" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="site" expanded="True">
+            <Node name="site" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Database" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Palavra" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
